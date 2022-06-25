@@ -111,22 +111,13 @@ committed in which arrest are done
 
 ## Project Snippets
 
-🔆 **Power BI Report Page 1**
+
+
+🔆 **Power BI Report**
 
 
 ![power bi report 1](https://user-images.githubusercontent.com/63772910/175770155-e6122346-38d8-49e1-8609-a042cd6c1f69.png)
 
-
-🔆 **Power BI Report Page 2**
-
-
-![power bi report 2](https://user-images.githubusercontent.com/63772910/175770169-0dd0f78e-8ba5-410b-89fa-75c9b7310055.png)
-
-
-🔆 **Power BI Report Page 3**
-
-
-![power bi report 3](https://user-images.githubusercontent.com/63772910/175770177-49fdf08d-5ccd-40e1-a00a-738958fbb67b.png)
 
 
 
