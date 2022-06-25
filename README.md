@@ -100,11 +100,42 @@ committed in which arrest are done
 
 🔆 **Power BI Desktop**
 
+
 ![power bi desktop](https://user-images.githubusercontent.com/63772910/175769978-49df4465-a356-4dbe-8b48-06eff5b83d40.png)
 
 🔆 **Power BI Service**
 
+
 ![power bi service home](https://user-images.githubusercontent.com/63772910/175770008-aaf9b759-795f-4c2c-99e4-f700a3c425f4.png)
+
+
+## Project Snippets
+
+🔆 **Power BI Report Page 1**
+
+
+![power bi report 1](https://user-images.githubusercontent.com/63772910/175770155-e6122346-38d8-49e1-8609-a042cd6c1f69.png)
+
+
+🔆 **Power BI Report Page 2**
+
+
+![power bi report 2](https://user-images.githubusercontent.com/63772910/175770169-0dd0f78e-8ba5-410b-89fa-75c9b7310055.png)
+
+
+🔆 **Power BI Report Page 3**
+
+
+![power bi report 3](https://user-images.githubusercontent.com/63772910/175770177-49fdf08d-5ccd-40e1-a00a-738958fbb67b.png)
+
+
+
+🔆 **Power BI Project Workspace**
+
+
+![power bi workspace](https://user-images.githubusercontent.com/63772910/175770194-5723703d-baae-4896-ab39-0b9f41e204dd.png)
+
+
 
 
 
