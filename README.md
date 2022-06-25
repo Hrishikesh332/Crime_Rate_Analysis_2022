@@ -52,6 +52,8 @@ sources, visualize and discover what's
 important, and share that with anyone or 
 everyone you want.
 
+🔆Here is the link to Microsoft power bi software : [power bi](https://powerbi.microsoft.com/)
+
 
 🔼**DAX Language**
 
@@ -96,7 +98,14 @@ committed in which arrest are done
 
 ## Softwares used
 
-![Power BI Desktop]()
+🔆 **Power BI Desktop**
+
+![power bi desktop](https://user-images.githubusercontent.com/63772910/175769978-49df4465-a356-4dbe-8b48-06eff5b83d40.png)
+
+🔆 **Power BI Service**
+
+![power bi service home](https://user-images.githubusercontent.com/63772910/175770008-aaf9b759-795f-4c2c-99e4-f700a3c425f4.png)
+
 
 
 ## License
