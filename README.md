@@ -73,7 +73,24 @@ The dataset source is Chicago crime department. They update the crime related da
 The dataset used in our project contains the crime records of the year 2022 specifically.
 
 
-🔼**Project Conclusion**
+
+
+
+## Softwares used
+
+🔆 **Power BI Desktop**
+
+
+![power bi desktop](https://user-images.githubusercontent.com/63772910/175769978-49df4465-a356-4dbe-8b48-06eff5b83d40.png)
+
+🔆 **Power BI Service**
+
+
+![power bi service home](https://user-images.githubusercontent.com/63772910/175770008-aaf9b759-795f-4c2c-99e4-f700a3c425f4.png)
+
+
+## Project Conclusion
+
 
 🌐Theft & Battery are the most committed crime.
 
@@ -94,19 +111,6 @@ arrest are done.
 
 🌐Battery and Weapon violence are the most no. of crime 
 committed in which arrest are done
-
-
-## Softwares used
-
-🔆 **Power BI Desktop**
-
-
-![power bi desktop](https://user-images.githubusercontent.com/63772910/175769978-49df4465-a356-4dbe-8b48-06eff5b83d40.png)
-
-🔆 **Power BI Service**
-
-
-![power bi service home](https://user-images.githubusercontent.com/63772910/175770008-aaf9b759-795f-4c2c-99e4-f700a3c425f4.png)
 
 
 ## Project Snippets
