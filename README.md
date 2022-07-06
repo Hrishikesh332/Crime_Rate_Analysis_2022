@@ -88,6 +88,9 @@ The dataset used in our project contains the crime records of the year 2022 spec
 
 ![power bi service home](https://user-images.githubusercontent.com/63772910/175770008-aaf9b759-795f-4c2c-99e4-f700a3c425f4.png)
 
+🔆 **Power BI Apps**
+
+![power bi service home](images/power%20bi%20apps.png)
 
 ## Project Conclusion
 
