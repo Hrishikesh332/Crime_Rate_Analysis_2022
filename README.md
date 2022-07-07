@@ -1,7 +1,7 @@
 
 # Crime Rate Analysis 2022
 
-Crime analysis in this project helps to identify and decipher different trends and patterns in the crimes happenning around us. This approach is beneficial for the police dept officials as it guides them to take appropriate measures to maintain law & order in the region. They can easily identify the crime prone regions and deploy patroling accordingly. A lot of significant insights can be gathered and reasearched on for reducing the crime rates. 
+Crime analysis helps to identify and decipher different trends and patterns in the crimes happenning around us. This approach is beneficial for the police dept officials as it guides them to take appropriate measures to maintain law & order in the region. They can easily identify the crime prone regions and deploy patroling accordingly. A lot of significant insights can be gathered and reasearched on for reducing the crime rates. 
 
 
 ## Authors
